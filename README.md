@@ -48,10 +48,7 @@ function cyclicalCaesarCipher(message) {
 const original = "Hello, World!";
 const encoded = cyclicalCaesarCipher(original);
 console.log(encoded); // "Wtaad, Ldgas!"
-```
-
-**Sample Output Screenshot:**  
-![Screenshot showing encoded output](screenshot.png)
+``
 
 ## Credits
 - [Lukhanyo05](https://github.com/Lukhanyo05)
