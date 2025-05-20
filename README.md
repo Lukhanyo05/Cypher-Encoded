@@ -51,7 +51,7 @@ console.log(encoded); // "Wtaad, Ldgas!"
 ```
 
 **Sample Output Screenshot:**  
-(C:\Users\Lukhanyo\OneDrive\Pictures\Screenshots\Cypher Encoder.png)
+![Cypher Encoder Screenshot](https://github.com/Lukhanyo05/Gittask2/blob/main/images/Cypher%20Encoder.png)
 
 ## Credits
 - [Lukhanyo05](https://github.com/Lukhanyo05)
